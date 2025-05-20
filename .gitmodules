@@ -1,0 +1,6 @@
+[submodule "robotont-supervisor"]
+	path = robotont-supervisor
+	url = https://github.com/robotont/robotont-supervisor.git
+[submodule "robotont-firmware"]
+	path = robotont-firmware
+	url = https://github.com/robotont/robotont-firmware.git
